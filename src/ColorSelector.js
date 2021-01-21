@@ -13,6 +13,7 @@ export default class ColorSelector extends Component {
       <div id="colorSelector">
         {this.makeColorSwatches()}
       </div>
+      
     )
   }
 }
